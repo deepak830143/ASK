@@ -55,6 +55,10 @@ Attach the program
 **Output Waveform**:
 
 ![image](https://github.com/user-attachments/assets/fd094141-f322-488e-a657-09e521231023)
- 
-**Results**:The graph is obtain for the modulation and demodulation of ASK using python programming
+
 # Hardware experiment output waveform.
+ 
+ ![ask image](https://github.com/user-attachments/assets/6a6e4488-7b56-4604-bf2f-c438288d955f)
+
+**Results**:The graph is obtain for the modulation and demodulation of ASK using python programming
+
